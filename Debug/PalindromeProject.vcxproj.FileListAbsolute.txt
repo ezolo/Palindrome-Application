@@ -1,0 +1,2 @@
+C:\Users\Eva\source\repos\PalindromeProject\Debug\PalindromeProject.exe
+C:\Users\Eva\source\repos\PalindromeProject\Debug\PalindromeProject.pdb
