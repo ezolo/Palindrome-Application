@@ -3,7 +3,7 @@
 ###### tags: `C++` `VS 16.7`
 
 
-## 📝 What is the Military to Standard Time Application?
+## 📝 What is the Palindrome Application?
 > The following application checks whether the word entered by the user is a palindrome. Users will be able to enter: 
 -  A word
 
